@@ -1,1 +1,1 @@
-C, Rust and Golang, everything else is trivial.
+Assembly language, C, Rust and Golang, everything else is trivial.
