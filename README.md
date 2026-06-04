@@ -1,1 +1,5 @@
-Assembly language, C, Rust and Golang, everything else is trivial.
+## hi
+
+systems programmer. assembly, c, rust, go.
+
+building low-level tooling, emulators, compilers, and the occasional game mod.
