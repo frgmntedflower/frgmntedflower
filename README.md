@@ -2,4 +2,4 @@
 
 systems programmer & penetration tester.
 
-building low-level tooling, emulators, compilers, and reverse engineering.
+building low-level tooling, emulators, compilers, and doing reverse engineering.
