@@ -1,5 +1,5 @@
-## hi
+## hi there
 
-systems programmer. assembly, c, rust, go.
+systems programmer & penetration tester.
 
-building low-level tooling, emulators, compilers, and the occasional game mod.
+building low-level tooling, emulators, compilers, and reverse engineering.
